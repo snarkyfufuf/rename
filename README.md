@@ -5,7 +5,6 @@ _[@snarkyfufuf](https://github.com/snarkyfufuf)_
 - [Usage](#usage)
 - [Queries](#queries)
 ##
-
 ### Installation
 - Clone the repository (Install git dependency if you haven't already (https://github.com/git-guides/install-git))
   
@@ -19,9 +18,7 @@ _[@snarkyfufuf](https://github.com/snarkyfufuf)_
 - Run the script
 ```python rename.py```
 
-
 #
-
 
 ### Queries
 #### What does the project do?
